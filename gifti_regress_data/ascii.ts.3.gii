@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://gifti.projects.nitrc.org/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="3">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Caret-Version]]></Name>
+         <Value><![CDATA[5.511]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[date]]></Name>
+         <Value><![CDATA[Wed Nov 21 14:54:16 2007]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[encoding]]></Name>
+         <Value><![CDATA[XML]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable/>
+   <DataArray Intent="NIFTI_INTENT_TIME_SERIES"
+              DataType="NIFTI_TYPE_FLOAT32"
+              ArrayIndexingOrder="RowMajorOrder"
+              Dimensionality="1"
+              Dim0="10"
+              Encoding="ASCII"
+              Endian="LittleEndian"
+              ExternalFileName=""
+              ExternalFileOffset="">
+      <MetaData>
+         <MD>
+            <Name><![CDATA[Description]]></Name>
+            <Value><![CDATA[CARET v5.511
+Mapped to surface: fiducial.coord
+Mapped from volume: srV_ts_al12.nii
+Subvolume: 0
+Algorithm: Metric Enclosing Voxel
+
+Date Mapped: Thu Nov 15 08:55:41 2007
+]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[Name]]></Name>
+            <Value><![CDATA[srV_ts_al12.nii[1]]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[UniqueID]]></Name>
+            <Value><![CDATA[{80a949b1-2d7d-42ef-9309-c0a65f5eb29e}]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[tagStudyMetaDataLinkSet]]></Name>
+            <Value><![CDATA[]]></Value>
+         </MD>
+      </MetaData>
+      <Data>
+         2708.000000 
+         2708.000000 
+         6405.000000 
+         2708.000000 
+         6405.000000 
+         8597.000000 
+         8597.000000 
+         11151.000000 
+         8597.000000 
+         8597.000000 
+      </Data>
+   </DataArray>
+   <DataArray Intent="NIFTI_INTENT_TIME_SERIES"
+              DataType="NIFTI_TYPE_FLOAT32"
+              ArrayIndexingOrder="RowMajorOrder"
+              Dimensionality="1"
+              Dim0="10"
+              Encoding="ASCII"
+              Endian="LittleEndian"
+              ExternalFileName=""
+              ExternalFileOffset="">
+      <MetaData>
+         <MD>
+            <Name><![CDATA[Description]]></Name>
+            <Value><![CDATA[CARET v5.511
+Mapped to surface: fiducial.coord
+Mapped from volume: srV_ts_al12.nii
+Subvolume: 0
+Algorithm: Metric Enclosing Voxel
+
+Date Mapped: Thu Nov 15 08:55:41 2007
+]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[Name]]></Name>
+            <Value><![CDATA[srV_ts_al12.nii[2]]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[UniqueID]]></Name>
+            <Value><![CDATA[{7d56430b-5d77-434d-a007-ad3f2cbe1ca4}]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[tagStudyMetaDataLinkSet]]></Name>
+            <Value><![CDATA[]]></Value>
+         </MD>
+      </MetaData>
+      <Data>
+         2781.000000 
+         2781.000000 
+         6588.000000 
+         2781.000000 
+         6588.000000 
+         8657.000000 
+         8657.000000 
+         11414.000000 
+         8657.000000 
+         8657.000000 
+      </Data>
+   </DataArray>
+   <DataArray Intent="NIFTI_INTENT_TIME_SERIES"
+              DataType="NIFTI_TYPE_FLOAT32"
+              ArrayIndexingOrder="RowMajorOrder"
+              Dimensionality="1"
+              Dim0="10"
+              Encoding="ASCII"
+              Endian="LittleEndian"
+              ExternalFileName=""
+              ExternalFileOffset="">
+      <MetaData>
+         <MD>
+            <Name><![CDATA[Description]]></Name>
+            <Value><![CDATA[CARET v5.511
+Mapped to surface: fiducial.coord
+Mapped from volume: srV_ts_al12.nii
+Subvolume: 0
+Algorithm: Metric Enclosing Voxel
+
+Date Mapped: Thu Nov 15 08:55:41 2007
+]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[Name]]></Name>
+            <Value><![CDATA[srV_ts_al12.nii[3]]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[UniqueID]]></Name>
+            <Value><![CDATA[{e3df2312-5388-422f-93e2-8e39ab291455}]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[tagStudyMetaDataLinkSet]]></Name>
+            <Value><![CDATA[]]></Value>
+         </MD>
+      </MetaData>
+      <Data>
+         2688.000000 
+         2688.000000 
+         6399.000000 
+         2688.000000 
+         6399.000000 
+         8859.000000 
+         8859.000000 
+         11527.000000 
+         8859.000000 
+         8859.000000 
+      </Data>
+   </DataArray>
+</GIFTI>

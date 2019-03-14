@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://gifti.projects.nitrc.org/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="2">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[AFN_oQBu5eIUI9RM0LpX5BjZ_w]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[AFNI_History]]></Name>
+         <Value><![CDATA[[rickr@manwe: Tue Apr 25 16:42:52 2017] 3dcopy tr.1D tr.gii;]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[gifticlib-version]]></Name>
+         <Value><![CDATA[gifti library version 1.15, 1 March, 2016]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable/>
+   <DataArray Intent="NIFTI_INTENT_NONE"
+              DataType="NIFTI_TYPE_INT16"
+              ArrayIndexingOrder="ColumnMajorOrder"
+              Dimensionality="3"
+              Dim0="3"
+              Dim1="10"
+              Dim2="2"
+              Encoding="ASCII"
+              Endian="LittleEndian"
+              ExternalFileName=""
+              ExternalFileOffset="">
+      <MetaData/>
+      <Data>
+      000 100 200 010 110 210 020 120 220 030 130 230 040 140 240 050 150 250
+      060 160 260 070 170 270 080 180 280 090 190 290
+      001 101 201 011 111 211 021 121 221 031 131 231 041 141 241 051 151 251
+      061 161 261 071 171 271 081 181 281 091 191 291
+      </Data>
+   </DataArray>
+   <DataArray Intent="NIFTI_INTENT_NONE"
+              DataType="NIFTI_TYPE_INT16"
+              ArrayIndexingOrder="ColumnMajorOrder"
+              Dimensionality="3"
+              Dim0="3"
+              Dim1="10"
+              Dim2="2"
+              Encoding="ASCII"
+              Endian="LittleEndian"
+              ExternalFileName=""
+              ExternalFileOffset="">
+      <MetaData/>
+      <Data>
+  1000 1100 1200 1010 1110 1210 1020 1120 1220 1030 1130 1230 1040 1140 1240 1050 1150 1250
+  1060 1160 1260 1070 1170 1270 1080 1180 1280 1090 1190 1290
+  1001 1101 1201 1011 1111 1211 1021 1121 1221 1031 1131 1231 1041 1141 1241 1051 1151 1251
+  1061 1161 1261 1071 1171 1271 1081 1181 1281 1091 1191 1291
+      </Data>
+   </DataArray>
+</GIFTI>
